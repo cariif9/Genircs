@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genircs", "Genircs\Genircs.csproj", "{027F064E-663E-47AD-97DC-5FD99A75D20E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027F064E-663E-47AD-97DC-5FD99A75D20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027F064E-663E-47AD-97DC-5FD99A75D20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027F064E-663E-47AD-97DC-5FD99A75D20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027F064E-663E-47AD-97DC-5FD99A75D20E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CD05B70-DE4D-4927-9CBA-F2A1003C7469}
+	EndGlobalSection
+EndGlobal
